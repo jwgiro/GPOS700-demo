@@ -277,7 +277,7 @@ var
 DeviceType :string;
 begin
 
-  DesligaNFC;
+  {DesligaNFC;
   DeviceType := JStringToString(TJBuild.JavaClass.MODEL);
 
 
@@ -299,7 +299,7 @@ begin
 
   end;
 
-  cmdNFCId.Visible := not cmdNFC.Visible;
+  cmdNFCId.Visible := not cmdNFC.Visible;  }
 
 end;
 

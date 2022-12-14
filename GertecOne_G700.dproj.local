@@ -10,12 +10,13 @@
     <Transaction>2020/07/14 11:03:05.000.688,=D:\Marcos\Gertec\UEA\Delphi-2020-07-13\delphi-master-RC03\GertecOne Framework_G700 e G800\libs\payment-1.14.13.190425.jar</Transaction>
     <Transaction>2020/07/14 11:18:30.000.388,=D:\Marcos\Gertec\UEA\Delphi-2020-07-13\delphi-master-RC03\payment-1.14.10.181016_classes.jar</Transaction>
     <Transaction>2020/07/14 11:44:39.000.870,=D:\Marcos\Gertec\UEA\Delphi-2020-07-13\Delphi-GPOS700 - MSitef Ger7\GertecOne Framework_GPOS700 - MSitef Ger7\libs\payment-1.14.10.181016_classes.jar</Transaction>
-    <Transaction>2022/12/14 14:10:44.586,C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.Consts.pas=</Transaction>
-    <Transaction>2022/12/14 14:11:16.468,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.Consts.pas</Transaction>
-    <Transaction>2022/12/14 14:11:39.393,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.StdCtrls.pas</Transaction>
-    <Transaction>2022/12/14 14:13:54.053,C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.StdCtrls.pas=</Transaction>
-    <Transaction>2022/12/14 14:15:21.041,C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.Consts.pas=</Transaction>
-    <Transaction>2022/12/14 14:22:47.369,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\uNFCbc.pas</Transaction>
-    <Transaction>2022/12/14 14:32:58.575,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\uNFCbc.pas</Transaction>
-  </Transactions>  <BT_BuildType>AppStore</BT_BuildType>
+    <Transaction>2022/12/14 14:10:44.000.586,C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.Consts.pas=</Transaction>
+    <Transaction>2022/12/14 14:11:16.000.468,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.Consts.pas</Transaction>
+    <Transaction>2022/12/14 14:11:39.000.393,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.StdCtrls.pas</Transaction>
+    <Transaction>2022/12/14 14:13:54.000.053,C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.StdCtrls.pas=</Transaction>
+    <Transaction>2022/12/14 14:15:21.000.041,C:\Users\jhonwilker\Downloads\Delphi-GPOS700\FMX.Consts.pas=</Transaction>
+    <Transaction>2022/12/14 14:22:47.000.369,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\uNFCbc.pas</Transaction>
+    <Transaction>2022/12/14 14:32:58.000.575,=C:\Users\jhonwilker\Downloads\Delphi-GPOS700\uNFCbc.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>AppStore</BT_BuildType>
 </BorlandProject>

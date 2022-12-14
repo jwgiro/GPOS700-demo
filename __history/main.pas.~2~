@@ -298,7 +298,6 @@ begin
     cmdNFCGedi.Position.Y := cmdNFC.Position.Y;
 
   end;
-
   cmdNFCId.Visible := not cmdNFC.Visible;
 
 end;

@@ -105,6 +105,12 @@ uses
 begin
   Application.Initialize;
   Application.CreateForm(TfrmMain, frmMain);
+  Application.CreateForm(TfrmNFCid, frmNFCid);
+  Application.CreateForm(TfrmImpressaoG, frmImpressaoG);
+  Application.CreateForm(TfrmCodBarra, frmCodBarra);
+  Application.CreateForm(TfrmCodigoBarraV2, frmCodigoBarraV2);
+  Application.CreateForm(TfrmNFCbc, frmNFCbc);
+  Application.CreateForm(TfrmTEF, frmTEF);
   //Application.CreateForm(TfrmNFC, frmNFC);
   Application.CreateForm(TfrmNFCbc, frmNFCbc);
   Application.Run;

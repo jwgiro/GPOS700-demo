@@ -203,10 +203,10 @@ end;
 
 procedure TfrmMain.DesligaNFC;
 begin
-
+{$IFNDEF __G800__}
 if(GertecNFC <> nil)then
   GertecNFC.PowerOff;
-
+{$ENDIF}
 end;
 
 procedure TfrmMain.cmdImpressaoClick(Sender: TObject);
@@ -282,7 +282,7 @@ begin
 
 
   if(DeviceType = 'Smart G800')then begin
-    ShowMessage('Smart G800');
+    //ShowMessage('Smart G800');
 
     cmdNFC.Visible := True;
     cmdNFCId.Visible := False;
@@ -291,14 +291,13 @@ begin
 
 
   end else begin//'GPOS700'
-    ShowMessage('NOT Smart G800');
+    //ShowMessage('NOT Smart G800');
     cmdNFC.Visible := False;
     cmdGerSat.Position.Y := cmdTef.Position.Y;
     cmdTef.Position.Y := cmdNFCGedi.Position.Y;
     cmdNFCGedi.Position.Y := cmdNFC.Position.Y;
 
   end;
-
   cmdNFCId.Visible := not cmdNFC.Visible;
 
 end;
